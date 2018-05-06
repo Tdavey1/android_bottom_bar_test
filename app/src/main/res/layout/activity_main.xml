@@ -44,13 +44,13 @@
 
         <fragment
             android:id="@+id/signal_summary_fragment"
-            android:name="com.example.android.sliding3.signal_summary"
+            android:name="com.example.android.sliding3.SignalSummary"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
 
         <fragment
             android:id="@+id/base_fragment"
-            android:name="com.example.android.sliding3.base"
+            android:name="com.example.android.sliding3.Base"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
     </LinearLayout>
